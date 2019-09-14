@@ -888,6 +888,14 @@ const emojiItems = [
         year: 1993
     },
     {
+        title: "Teenage Mutant Ninja Turtles",
+        emojiImgs: "🐀🐢🎭🥋",
+        genres: ["animation", "adventure", "comedy"],
+        itemLink: "https://www.imdb.com/title/tt0100758/",
+        type: "movie",
+        year: 1990
+},
+    {
         title: "Young Frankenstein",
         emojiImgs: "👶🌭🍺⚡️🧟‍",
         genres: ["comedy"],
